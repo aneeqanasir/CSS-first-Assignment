@@ -32,7 +32,7 @@
     text-shadow: 1px 1px 4px brown;
     line-height: 30px;
     text-indent: 20px;
-    border: 4px;
+    border: 7px;
     border-color: red ;
     border-style: inset;
 
@@ -63,7 +63,7 @@ strong{
     text-shadow: 2px 2px 4px #cddc39;
     text-indent: 20px;
     border: 4px;
-    border-color: #c2185b aquamarine #90caf9 blue;
+    border-color: #c2185b;
     border-style: outset;
     
 }
